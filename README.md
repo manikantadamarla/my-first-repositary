@@ -1,2 +1,3 @@
-# my-first-repositary
-my first repositary
+hi
+hellow 
+wel come to the git hub
